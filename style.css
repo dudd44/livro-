@@ -19,7 +19,7 @@ body{
 .secao{
     max-width: 1200px;
     margin: 0 auto;
-    box-shadow: 0 0 10px rgba(ff9d64, ff9d64, ff9d64, ff9d64);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
     border-radius: 9px;
     display: flex;
     background-color: #ff9d64;
