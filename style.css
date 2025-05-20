@@ -56,11 +56,14 @@ body{
 }
 
 /*Media query para tornar a seção responsiva*/
+@media screen (media-width: 800px) {
 
-.secao{
+   .secao{
     flex-direction: column;
 }
 
 .texto, .imagem{
     padding: 10pxS;
+} 
 }
+
