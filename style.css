@@ -48,14 +48,12 @@ body{
     flex: 1;
     text-align: center;
     align-self: center;
-    width: 50%;
 }
 
 .imagem.img{
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-    width: 50%;
 }
 
 /*Media query para tornar a seção responsiva*/
